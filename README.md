@@ -33,4 +33,16 @@
 
 ![image](https://github.com/user-attachments/assets/7183954a-bdf8-4d14-9124-5eb61ddf10b6)
 
+__После нажатия add task появляется надпись: "Задача успешно добавлена"__
 
+![image](https://github.com/user-attachments/assets/0bc86669-61af-4997-8f6f-71c1425d9123)
+
+__Логи на сервере:__
+
+![image](https://github.com/user-attachments/assets/b3bbf9c4-3e1a-4dc0-a2fa-d111c86ce959)
+
+__После нажатия на show tasks, можно будет посмотреть на добавленные задачи:__
+
+![image](https://github.com/user-attachments/assets/bec33b08-a910-4311-8c5a-164a44f3d76f)
+
+__Задачу можно изменить на выполненное, если нажать на кнопку "Mark as done" или удалить задачу, нажав "Delete"__
