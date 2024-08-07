@@ -15,7 +15,7 @@
 > [!WARNING]
 > В случае, если команда не сработала, надо будет по очередно выполнить следующие комманды:
 > `docker-compose up -d`
-> `go run ./cmd`
+> `go run ./cmd/`
 > `cd myproject`
 > `wails dev`
  
