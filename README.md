@@ -1,6 +1,6 @@
 # todo-list
 
-##__Desktop API__
+## __Desktop API__
 
 Приложение для составления задач (todo-list). 
 Стек: 
@@ -8,7 +8,7 @@
 - JS
 - Wails (framework)
 
-##__Для запуска приложения__ 
+## __Для запуска приложения__ 
 
 `make run` 
 
@@ -18,8 +18,8 @@
 > `go run ./cmd`
 > `cd myproject`
 > `wails dev`
-
-##__Архитектура приложения__
+ 
+## __Архитектура приложения__
 
 ![image](https://github.com/user-attachments/assets/3e170281-02bc-4223-a029-0f3fb9d83cc4)
 
@@ -27,7 +27,7 @@
 В качестве базы данных использовался postgres, запускаемый через docker-compose, и миграции реализованы с помощью библиотеки goose.
 
 
-##__Use cases__
+## __Use cases__
 
 Внешний вид API
 
